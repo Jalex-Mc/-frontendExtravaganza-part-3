@@ -1,4 +1,4 @@
-# -frontendExtravaganza-part-3
+# frontendExtravaganza-part-3
 
 Daily Frontend Mentor challenges. Doing all premium sites.
 
